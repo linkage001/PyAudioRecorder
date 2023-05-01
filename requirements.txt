@@ -1,0 +1,2 @@
+PyAudio==0.2.13
+pyspark==3.0.0
